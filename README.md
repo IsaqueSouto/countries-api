@@ -1,13 +1,14 @@
-# API Países
+# Countries API
 
-> Um micro-serviço para consultar e gerenciar dados de países via API REST.
+> A lightweight and efficient microservice for querying and managing country data through a RESTful API.
 
-## Sobre
-A **API Países** foi criada para permitir a consulta e o gerenciamento de informações sobre países.
+## Overview
+The Countries API provides a simple and structured way to retrieve and manage information about countries.
+It is designed as an educational and practical tool for understanding REST architecture, JSON communication, and C# integration with microservices.
 
-## Tecnologias
+## Technologies
 - C# (Windows forms)
-- Padrão REST + JSON
+- REST + JSON
 
-## Rodando o projeto
-Clone, instale dependências, configure .env e execute.
+## How to Run the Project
+Clone the file, install dependencies, configure the .env file, and run it.
